@@ -2,7 +2,7 @@
 
 A lightweight Pastebin-like application that allows users to create text pastes and share them through unique URLs. Pastes can optionally have an expiration time (TTL) and a maximum view limit.
 
-**Live Application:** https://pastebin-lite-dun-pi.vercel.app
+**Live Application:** https://pastebinlite-liard.vercel.app
 
 **GitHub Repository:** https://github.com/G-Aarush-Raj/pastebin-lite
 
